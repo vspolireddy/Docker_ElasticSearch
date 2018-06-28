@@ -1,0 +1,4 @@
+make sure to run this command to retrieve the books
+
+wget https://cdn.patricktriest.com/data/books.zip
+unar books.zip
